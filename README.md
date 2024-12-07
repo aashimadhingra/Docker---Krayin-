@@ -1,6 +1,10 @@
 # Docker-Krayin
 
 
+https://github.com/user-attachments/assets/e68d7a4b-9393-44bb-b6c1-989f0ef84447
+
+
+
 # Krayin CRM  
 
 **Krayin** is an open-source Laravel-based CRM platform designed to help businesses manage interactions with customers and potential customers efficiently.  
